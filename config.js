@@ -11,10 +11,10 @@ const WEDDING_CONFIG = {
   location: "20 P. Láng Hạ, Láng Hạ, Đống Đa, Hà Nội  ",
 
   // link mở ngoài (mở app Google Maps trên điện thoại)
-  mapUrl: "https://maps.app.goo.gl/iUAHAdMiFrzFSZo76",
+  mapUrl: "https://maps.app.goo.gl/6qey4aedYSsfMcUX9",
 
   // link embed hiển thị trực tiếp trong trang
-  mapEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5222.904402459904!2d105.81440289999999!3d21.016232799999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab63791d9ee5%3A0x9e6cca93a08ef5c!2sQueen%20Bee%20Luxury!5e1!3m2!1svi!2s!4v1766470407463!5m2!1svi!2s",
+  mapEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3291.3901575446534!2d105.81678733628806!3d20.98563452626672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135acf2e7179b53%3A0xf3841bb5cd492402!2zMTAgTmcuIDI3MSBQLiBCw7lpIFjGsMahbmcgVHLhuqFjaCwgxJDhu4tuaCBDw7RuZywgVGhhbmggWHXDom4sIEjDoCBO4buZaSwgVmnhu4d0IE5hbQ!5e1!3m2!1svi!2s!4v1766834942815!5m2!1svi!2s",
   heroImage: "assets/hero-cover.jpg",
   doorLeft: "assets/A.png",
   doorRight: "assets/B.png",
